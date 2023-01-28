@@ -1,3 +1,3 @@
-module github.com/robteix/testmod
+module github.com/Sulafit/Gopher/testmod
 
 go 1.19
